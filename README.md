@@ -1,3 +1,5 @@
-# Electricity consumption prediction using attention-based LSTM model
+# Electricity consumption prediction using attention-based LSTM model (Source Code)
 
-This repo contains the source code for the paper. 
+This repo contains the source code for the paper: **Electricity consumption prediction using attention-based LSTM model**
+
+The paper introduces an enhanced predictive model based on the Evolutionary Attention-based Long Short-Term Memory (EA-LSTM) network, aiming to harness the strengths of recurrent deep learning models' ability to extract pattern and the precision of evolutionary computations for improved time-series forecasting. The proposed model was benchmarked against both traditional machine learning methods such as Lasso Regression, XGBoost, Random Forest with cross-validation, and modern deep learning methods such as Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU). The empirical results demonstrate that the EA-LSTM outperforms all the baseline methods in terms of selected metrics: Root mean square percentage error (RMSPE), Root mean square error (RMSE), Mean absolute percentage error (MAPE), and Mean absolute error (MAE).
