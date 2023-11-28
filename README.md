@@ -14,13 +14,8 @@ The EA-LSTM model is crafted to address the limitations of traditional LSTMs in 
 
 The competitive random search method for training circumvents the pitfalls of partial optimization, common in gradient-based techniques. This innovative training strategy ensures a comprehensive exploration of the optimization space, leading to a more robust and efficient parameter configuration in the attention layer.
 
-## Repository Structure
-- `source_code/`: Contains the full source code used for implementing the EA-LSTM model.
-- `data/`: Sample datasets used for training and evaluating the model.
-- `results/`: Results and comparisons with baseline methods.
-- `documentation/`: Additional documentation and guidelines for replicating the experiments.
 
-### Reference
+## Reference
 For implementation, I referred to (the author's original code)[https://github.com/bzantium/EA-LSTM].
 
 
