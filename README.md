@@ -19,4 +19,4 @@ The competitive random search method for training circumvents the pitfalls of pa
 For implementation, I referred to (the author's original code)[https://github.com/bzantium/EA-LSTM].
 
 
-## The paper has been submitted to **PLOS ONE** and is currently under review (major revision).
+## The paper has been submitted to **PLOS ONE** and is currently under revision.
